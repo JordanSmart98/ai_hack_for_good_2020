@@ -14,3 +14,6 @@ AI Hack for Good 2020 team entry using the Police Service Northern Ireland (PSNI
 - Our web-app https://ni-rtc-data.com/
 - Dataset(s) https://www.opendatani.gov.uk/dataset/police-recorded-injury-road-traffic-collision-statistics-northern-ireland-2018
 - Database www.opendatani.gov.uk
+
+## Placement
+- 2nd Place Open-ended Catagory
